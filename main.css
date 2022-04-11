@@ -5,8 +5,9 @@
   width:300px;
   position:relative;
   border-radius:8px;
-  left:40%
-  top:100px;
+  margin:auto;
+  margin-top:50px;
+  border:1px solid;
 }
 
 .screen input
